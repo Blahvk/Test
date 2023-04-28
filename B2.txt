@@ -1,0 +1,9 @@
+1)Analyze the existing IOCs - review the IOCs mentioned in the report, understand the context and significance of each IOC
+
+2)Cross-reference - compare existing IOCs with known threat intelligence feeds or databases to identify if any of the IOCs are already recognised. This will help to filter out some IOCs.
+
+3)Perform IOC enrichment - use threat intelligence sources to do so.
+
+4)Identify anomalies - Use detection techniques and behavioural analysis to identify any unusual or suspicious patterns in IOCs.
+
+5)Collaborate with industry experts - Share with the cyber community about the recent findings. Collaboration might help identify emerging threats/new patterns that might not be widely known.

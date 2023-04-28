@@ -1,0 +1,12 @@
+Indicators of compromise(IOCs) serve as forensic evidednce of potential intrusions on a host system or network.
+From the list of extracted IOCs, these are the few indicators that will be able to provide some clues/leads to aid in a cyber threat investigation. The indicators are namely domain name, creation data, expiration date, registrar, name servers, status, WHOIS server, updated date, admin/technical contact and DNSSEC.
+Domain name is able to provide insights into that particular entity and gives an indicator as to whether there is a broader compromise involved.
+Creation date can help to determine the timeline of the threat, provide clues about its origin and helps to complete an analysis and evaluation of the source.
+Expiration date can be used to indicate the longevity or short term nature of the infrastructure.
+Registrar can help indentifying the entity responsible for registering and managing the domain.
+Name Servers can provide clues or reveal the infrstructure used to host the threat.
+Status can indicate if the domain is active/suspended or flagged for abuse which can provided insights of the malicious activities.
+WHOIS server provides information about the domain registration and ownership.
+Updated date tells us the when was the recent changes made to the domain.
+Admin/Technical Contact provides a next level of investigation to start from.
+DNSSEC indicates whether the domain has implemented additional security measures which can help to understand the level of security and potential vulnerabilities.
